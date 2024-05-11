@@ -13,5 +13,7 @@
   7) Design and implement ER model diagrams (Entity RelationshipModel) of database systems such as office automation, Hotel managementandHospital Management.(Project)
   8) Java Database Connectivity:(JDBC)
 
+
+
 GIVE IT A TRY IT WILL SURELY HELP YOU AS I HAVE MADE IT WITH SO MUCH DETAILING AND EXAMPLES!! 
 HOPE IT HELPS ^_^
